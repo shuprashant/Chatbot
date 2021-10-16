@@ -1,0 +1,276 @@
+In late 2019, a new virus began generating headlines all over the world because of the unprecedented speed of its transmission.
+
+Its origins have been traced to a food market in Wuhan, China, in December 2019. From there, it’s reached countries as distant as the United States and the Philippines.
+
+The virus (officially named SARS-CoV-2) has been responsible for over 200 million infections globally, causing over 4.5 million deaths. The United States has had the most deaths.
+
+COVID-19, which stands for coronavirus disease 2019, is the disease caused by contracting SARS-CoV-2.
+
+Let’s bust some myths.
+
+Read on to learn:
+
+how this coronavirus is transmitted
+how it’s similar to and different from other coronaviruses
+how to prevent transmitting this virus to others if you suspect you’ve contracted it
+Doctors and scientists are learning new things about this virus every day. So far, it’s known that COVID-19 may not cause any symptoms for some people.
+
+You may carry the virus for 2 days or up to 2 weeksTrusted Source before you develop symptoms. Sometimes the incubation period may be longer than 2 weeksTrusted Source.
+
+Some common symptoms that have been specifically linked to COVID-19 include:
+
+shortness of breath
+a cough that gets more severe over time
+congestion or runny nose, especially with the Delta variant
+fever
+chills
+fatigue
+Less common symptoms include:
+
+shivering
+sore throat
+headache
+muscle aches and pains
+loss of taste or smell
+a stuffy or runny nose
+gastrointestinal symptoms such as diarrhea, nausea, and vomiting
+discoloration of fingers or toes
+pink eye
+rash
+However, individuals with COVID-19 may have some, all, or none of the above symptoms.
+
+For instance, fever is often referred to as the most common symptom of COVID-19. However, a July 2020 study of 213 people with mild disease found that only 11.6 percent of them had experienced fever.
+Most people with COVID-19 will only have a mild case.
+
+According to the National Institutes of Health’s COVID-19 treatment guidelines, people are characterized as having a mild case if they:
+
+have any of the typical symptoms of COVID-19 (such as cough, fatigue, or loss of taste or smell)
+do not have shortness of breath or abnormal chest imaging
+Mild cases can still have long-lasting effects. People who experience symptoms months after first contracting the virus — and after the virus is no longer detectable in their body — are referred to as long haulers.
+
+According to a February 2021 research letter in JAMA Network Open, approximately one-thirdTrusted Source of people with COVID-19 had persistent symptoms as long as 9 months after infection.
+
+A December 2020 literature review estimated that 17 percent of people with COVID-19 are actually asymptomatic. This means they have no symptoms at all.
+
+Twenty percent of people who have COVID-19 and require any sort of older adult care services are asymptomatic. The authors evaluated data from 13 studies to come up with their estimates.
+
+A January 2021 literature review looked at 61 studies and reports about COVID-19. The researchers concluded that:
+
+At least one-third of all cases are asymptomatic.
+Almost 75 percent of people who are asymptomatic when they receive a positive polymerase chain reaction (PCR) test result will remain asymptomatic. PCR tests include nasal swab tests.
+Severe COVID-19
+Call emergency medical services if you have or someone you care for has any of the following symptoms:
+
+trouble breathing
+blue lips or a blue face
+persistent pain or pressure in the chest
+confusion
+excessive drowsiness
+The Centers for Disease Control and Prevention (CDC)Trusted Source is still investigating the full range of symptoms.
+The 2019 coronavirus causes more deaths than the seasonal flu.
+
+According to the CDC, an estimated 0.43 to 1.1 percentTrusted Source of people who developed the flu during the 2019–2020 flu season in the United States died by April 4, 2020.
+
+In comparison, about 1.61 percent of those with a confirmed case of COVID-19 in the United States have died as of October 7, 2021.
+
+The flu and COVID-19 share many of the same symptoms. Common flu symptoms include:
+
+cough
+runny or stuffy nose
+sore throat
+fever
+headache
+fatigue
+chills
+body aches
+Coronaviruses are zoonotic. This means they first develop in animals before being transmitted to humans. (Older coronaviruses like the common cold have been in human populations for so long that these days they are more commonly transmitted from one human to another.)
+
+For the virus to be transmitted from animals to humans, a person has to come into close contact with an animal that has the infection.
+
+Once the virus develops in people, coronaviruses can be transmitted from person to person through respiratory droplets. This is a technical name for the wet stuff that moves through the air when you exhale, cough, sneeze, or talk.
+
+The viral material hangs out in these droplets and can be breathed into the respiratory tract (your windpipe and lungs), where the virus can then cause an infection.
+
+It’s possible that you could acquire SARS-CoV-2 if you touch your mouth, nose, or eyes after touching a surface or object that has the virus on it. However, this is not thoughtTrusted Source to be the main way that the virus is passed on.
+
+SARS-CoV-2 can also aerosolizeTrusted Source, or dissolve into a fine spray of particles and moisture, and remain suspended in the air for minutes to hours.
+
+However, contraction of an infection through close contact with people with SARS-CoV-2 — and their respiratory droplets — is currently thought to be much more common.
+
+The 2019 coronavirus hasn’t been definitively linked to a specific animal.
+
+Researchers believe that the virus may have been passed from bats to another animal — either snakes or pangolins — and then transmitted to humans.
+
+This transmission likely occurred in the open food market in Wuhan.
+You’re at high risk for contracting SARS-CoV-2 if you come into contact with someone who’s carrying it, especially if you’ve been exposed to their saliva or been near them when they’ve coughed, sneezed, or talked.
+
+Without taking proper preventive measures, you’re also at high risk if you:
+
+live with someone who has contracted the virus
+are providing home care for someone who has contracted the virus
+have an intimate partner who has contracted the virus
+Older adults and people with certain health conditions have a higher riskTrusted Source of severe complications if they contract the virus. These health conditions include:
+
+cancer
+serious heart conditions, such as heart failure, coronary artery disease (CAD), and cardiomyopathy
+chronic kidney disease
+chronic obstructive pulmonary disease (COPD)
+obesity, a condition that develops in people with a body mass index (BMI) of 30 or higher
+sickle cell anemia
+a weakened immune system from a solid organ transplant
+type 2 diabetes
+Pregnancy also puts you at a higher risk for complications from COVID-19.
+
+The CDCTrusted Source reports that pregnant women are more likely to experience severe COVID-19 illness than nonpregnant women.
+
+For instance, pregnant women entered the intensive care unit (ICU) at nearly three times the rate of nonpregnant women. Mortality rates for pregnant women are also higher.
+
+According to a study from September 2020Trusted Source, women with COVID-19 are also more likely to have a preterm birth than women without COVID-19.
+
+Transmitting the virus from mother to child during pregnancy isn’t likely, but the newborn can contract the virus after birth.
+
+On the other hand, according to a 2021 study, the antibodies of mothers who’ve been vaccinated have been found in cord blood, meaning the antibodies are transferring to the baby and may also be found in breast milk.
+COVID-19 can be diagnosed similarly to other conditions caused by viral infections: using a blood, saliva, or tissue sample.
+
+However, most tests use a cotton swab to retrieve a sample from the inside of your nostrils.
+
+Locations that conduct tests include:
+
+the CDC
+some state health departments
+commercial companies
+certain pharmacies
+clinics and hospitals
+emergency rooms
+community testing centers
+Visit the websites of your state’s health departmentTrusted Source or the U.S. Department of Health & Human Services to find out where testing is offered near you.
+On November 17, 2020, the Food and Drug Administration (FDA)Trusted Source issued its first emergency use authorization (EUA) for a COVID-19 self-testing kit.
+
+The EUA specifies that the test kit is authorized for use by people ages 14 years and older whom healthcare professionals have identified as having suspected COVID-19.
+
+The Lucira COVID-19 All-In-One Test Kit is a rapid test, which means that the nasal swab sample does not have to be sent off to a lab. The test kit is available by prescription only and promises results within 30 minutes.
+
+On April 21, 2020, the FDATrusted Source authorized the use of the first COVID-19 home collection kit. It’s produced by Pixel by LabCorp.
+
+A cotton swab is provided, and you’re able to collect a nasal sample with it and mail it to a designated laboratory for testing.
+
+It’s authorized for use in people ages 18 years and older.
+alk with your doctor right away if you think you have COVID-19 or you notice symptoms.
+
+Your doctor will advise you on whether you should:
+
+stay home and monitor your symptoms
+set up a telehealth visit
+come into the doctor’s office to be evaluated
+go to the hospital for more urgent care
+There’s currently no cure for an infection caused by the 2019 coronavirus. However, many treatments and vaccines are currently under study.
+
+On October 22, 2020, the FDATrusted Source approved its first COVID-19 treatment, the medication remdesivir (Veklury). It’s available by prescription to treat COVID-19 in people ages 12 years and older who’ve been hospitalized. It’s administered as an intravenous (IV) infusion.
+
+In November 2020, the FDA also granted EUAs to monoclonal antibody medications.
+
+Monoclonal antibodies are synthetically derived proteins that help the body develop an immune response against foreign-made substances such as viruses.
+
+These medications are:
+
+bamlanivimab, from Eli LillyTrusted Source
+casirivimab and imdevimab, which must be administered together, from Regeneron PharmaceuticalsTrusted Source
+Like remdesivir, they’re also administered by IV infusion and intended to treat COVID-19 in people ages 12 years and older. Monoclonal antibodies can also be given subcutaneously (under the skin). These medications are used for outpatient therapy.
+
+There was hope for convalescent plasma, which was intended for treatment in people who are hospitalized or at high risk for hospitalization. But the latest studies are showing no benefit and perhaps even harm from it. With the advent of monoclonal antibodies, it isn’t given anymore.
+
+IV steroids have proven to be effective if a person requires oxygen. Also, anti-clotting medication is used in hospitals to prevent the increased risk of clots from COVID-19. Interleukin-6 inhibitors are also used.
+
+An October 2021 news story on a new antiviral oral medication from Merck shows some promise, though the concrete data has not been released yet.
+
+Seek medical help if you think you have COVID-19. Your doctor will recommend treatment for any symptoms or complications that develop and let you know if you need to seek emergency treatment.
+Other coronaviruses such as severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS) are also treated by managing symptoms. In some cases, experimental treatments have been tested to see how effective they are.
+
+Examples of therapies used for these illnesses include:
+
+antiviral or retroviral medications
+breathing support, such as mechanical ventilation
+steroids to help reduce lung swelling and inflammation
+blood plasma transfusions
+The most serious complication of COVID-19 is a type of pneumonia that’s been called 2019 novel coronavirus-infected pneumonia (NCIP).
+
+Results from a 2020 studyTrusted Source of 138 people admitted into hospitals in Wuhan with NCIP found that 26 percent of those admitted had severe cases and needed to be treated in the ICU.
+
+The percentage of people who died from NCIP after being admitted to the hospital was 4.3 percent.
+
+It should be noted that people who were admitted to the ICU were, on average, older and had more underlying health conditions than people who didn’t go to the ICU.
+
+NCIP is not the only complication specifically linked to the 2019 coronavirus.
+
+Researchers have seen the following complications in people who have developed COVID-19:
+
+acute respiratory distress syndrome (ARDS)
+blood clots
+irregular heart rate (arrhythmia)
+cardiogenic shock
+kidney injury or kidney failure (including needing dialysis)
+severe muscle pain
+fatigue
+heart damage or heart attack
+multisystem inflammatory syndrome in children (MIS-C); this is also known as pediatric multisystem inflammatory syndrome (PMIS)
+The best way to prevent the transmission of the virus is to avoid or limit contact with people who are showing symptoms of COVID-19 or any respiratory infection.
+
+The next best thing you can do is practice good hygiene and physical distancing to help prevent bacteria and viruses from being transmitted.
+
+Prevention tips
+Wash your hands frequently for at least 20 seconds at a time with warm water and soap. How long is 20 seconds? About as long as it takes to sing your “ABCs.”
+Do not touch your face, eyes, nose, or mouth when your hands are dirty.
+Do not go out if you’re feeling sick or have any cold or flu symptoms.
+Stay at least 6 feet (2 meters) away from people. Avoid crowds and large gatherings.
+Cover your mouth with a tissue or the inside of your elbow whenever you sneeze or cough. Throw away any tissues you use right away.
+Wear a mask or face covering in public places.
+Clean any objects you touch a lot. Use disinfectants on objects like phones, computers, and doorknobs. Use soap and water for objects that you cook or eat with, like utensils and dishware.
+Multiple vaccines are in development. Three are currently available in the United States and are helping to prevent transmission of the virus.
+
+On December 11, 2020, the FDATrusted Source granted its first EUA for a vaccine. This vaccine was developed by Pfizer and BioNTech. As of August 2021, full FDA approvalTrusted Source is now present for those over 16 years old, and EUA for ages 12 to 15 years old.
+
+A third booster doseTrusted Source is available for persons who are immunocompromised 6 months after the second shot, as well all as those ages 18 years and older in high risk professions such healthcare workers or at risk for severe COVID-19 symptoms and complications.
+
+On December 18, 2020, the FDATrusted Source granted an EUA to a vaccine developed by Moderna. The Moderna vaccine can be given to people ages 18 years and older.
+
+On February 24, 2021, the FDATrusted Source announced that a one-dose vaccine from Johnson & Johnson was effective against severe COVID-19 symptoms and complications. The FDA granted an EUA on February 27. The vaccine can be given to people ages 18 years and older.
+If you’re out in a public setting where it’s difficult to follow physical distancing guidelines, the CDCTrusted Source recommends that you wear a cloth, surgical, KN-95, or N95 mask, or covering that covers your mouth and nose.
+
+When worn correctly, and by large percentages of the public, these masks can help to slow the transmission of SARS-CoV-2.
+
+That’s because they can block the respiratory droplets of people who may be asymptomatic or people who have the virus but have gone undiagnosed. People are infectious about 2 days before they have symptoms; this is called pre-symptomatic. Masks are very important in preventing the transmission of the virus.
+
+It’s critical to keep the mask or covering clean. Wash it after each time you use it. Avoid touching the front of it with your hands. Also, try to avoid touching your mouth, nose, and eyes when you remove it.
+
+This helps prevent you from possibly transferring the virus from a mask to your hands and from your hands to your face.
+
+Keep in mind that wearing a face mask or covering is not a replacement for other preventive measures, such as frequent handwashing and practicing physical distancing. All these preventive practices are important.
+
+Certain people should not wear face masks, including:
+
+children under 2 years old
+people who have trouble breathing
+people who are unable to remove their own masks
+A coronavirus gets its name from the way it looks under a microscope.
+
+The word corona means “crown.”
+
+When examined closely, the round virus has a “crown” of proteins called peplomers jutting out from its center in every direction. These “spike proteins” help the virus identify whether it can infect its host.
+
+The condition known as SARS was also linked to a highly infectious coronavirus back in the early 2000s.
+This is not the first time a coronavirus has made news. The 2003 SARS outbreak was also caused by a coronavirus.
+
+As with the 2019 virus, the SARS (sudden acute respiratory syndrome) virus was first found in animals before it was transmitted to humans.
+
+The SARS virus is thought to have come from bats and was transferred to another animal and then to humans. Once transmitted to humans, the SARS virus began spreading quickly among people.
+
+However, unlike the 2019 coronavirus, the SARS virus was eventually contained and eradicated.
+First and foremost, try not to panic. You don’t need to be quarantined unless you suspect you have contracted the virus or have a confirmed test result.
+
+Following simple handwashing and physical distancing guidelines are the best ways to help protect yourself from being exposed to the virus. Vaccination is key here as well.
+
+It’s also important to limit any time indoors spent with your mask off and limit large gatherings.
+
+The 2019 coronavirus can seem scary when you read the news about deaths, quarantinesTrusted Source, and travel bans.
+
+Try to focus on staying calm and following your doctor’s instructions if you’re diagnosed with COVID-19, so you can recover and help prevent the transmission of the 2019 coronavirus.
